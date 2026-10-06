@@ -20,8 +20,6 @@
 
 ### 2026-10-06 — Work session
 
-Started working on the schematic for the sensors. I think I'll include sensors such as cameras, gyroscopes, gps, and maybe an acceleromter or like speaker for cool effects.
-
 **3.05h**
 
 [Timelapse](https://lookout.hackclub.com/api/media/d395f6d3-d784-4caa-91db-c3eb540afd75/video.mp4)
