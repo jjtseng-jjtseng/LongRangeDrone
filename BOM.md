@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Custom STM32H743 Flight Controller PCB + PCBA](https://jlcpcb.com/pcb-assembly) | Main flight computer, GPS processing, stabilization, motor control | 1 | $95.00 | $95.00 | [JLCPCB](https://jlcpcb.com/pcb-assembly) |
 | **Parts subtotal** | — | — | — | **$95.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$95.00** | — |
+| **Tax & shipping** | — | — | — | **$30.00** | — |
+| **Total** | — | — | — | **$125.00** | — |
 
-$5.00 left of the tier's funding.
+**$25.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
